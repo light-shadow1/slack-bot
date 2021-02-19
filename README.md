@@ -1,2 +1,2 @@
 # slack-bot
-Microservice using Slack APIs
+Microservice using AWS SQS
